@@ -51,7 +51,7 @@ img.emoji {
 .dynamic-author-image-rounded{border-radius:100%;}.dynamic-featured-image, .dynamic-author-image{vertical-align:middle;}.one-container.blog .dynamic-content-template:not(:last-child), .one-container.archive .dynamic-content-template:not(:last-child){padding-bottom:0px;}.dynamic-entry-excerpt > p:last-child{margin-bottom:0px;}
 .page-hero .inside-page-hero.grid-container{max-width:calc(1200px - 0px - 0px);}.inside-page-hero > *:last-child{margin-bottom:0px;}.page-hero time.updated{display:none;}.header-wrap{position:absolute;left:0px;right:0px;z-index:10;}.header-wrap .site-header{background:transparent;}
 .main-navigation.slideout-navigation .main-nav > ul > li > a{line-height:65px;}</style>
-<link rel="stylesheet" id="generateblocks-css" href="https://hellohellocakes.co.uk/wp-content/uploads/generateblocks/style-277.css?ver=1647175307" media="all">
+<link rel="stylesheet" id="generateblocks-css" href="https://hellohellocakes.co.uk/wp-content/uploads/generateblocks/style-277.css?ver=1647345538" media="all">
 <link rel="stylesheet" id="generate-offside-css" href="https://hellohellocakes.co.uk/wp-content/plugins/gp-premium/menu-plus/functions/css/offside.min.css?ver=2.1.2" media="all">
 <style id="generate-offside-inline-css">.slideout-navigation.main-navigation{background-color:#243544;}.slideout-navigation.main-navigation .main-nav ul li a{color:#ffffff;font-weight:400;text-transform:none;font-size:25px;}.slideout-navigation.main-navigation ul ul{background-color:rgba(0,0,0,0);}.slideout-navigation.main-navigation .main-nav ul ul li a{color:#ffffff;}.slideout-navigation.main-navigation.do-overlay .main-nav ul ul li a{font-size:1em;font-size:24px;}@media (max-width:768px){.slideout-navigation.main-navigation .main-nav ul li a{font-size:24px;}.slideout-navigation.main-navigation .main-nav ul ul li a{font-size:23px;}}.slideout-navigation.main-navigation .main-nav ul li:not([class*="current-menu-"]):hover > a, .slideout-navigation.main-navigation .main-nav ul li:not([class*="current-menu-"]):focus > a, .slideout-navigation.main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"]) > a{background-color:rgba(0,0,0,0);}.slideout-navigation.main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover > a, .slideout-navigation.main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus > a, .slideout-navigation.main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"]) > a{background-color:rgba(0,0,0,0);}.slideout-navigation.main-navigation .main-nav ul li[class*="current-menu-"] > a{background-color:rgba(0,0,0,0);}.slideout-navigation.main-navigation .main-nav ul ul li[class*="current-menu-"] > a{background-color:rgba(0,0,0,0);}.slideout-navigation, .slideout-navigation a{color:#ffffff;}.slideout-navigation button.slideout-exit{color:#ffffff;padding-left:20px;padding-right:20px;}.slide-opened nav.toggled .menu-toggle:before{display:none;}@media (max-width: 768px){.menu-bar-item.slideout-toggle{display:none;}}</style>
 <link rel="stylesheet" id="generate-navigation-branding-css" href="https://hellohellocakes.co.uk/wp-content/plugins/gp-premium/menu-plus/functions/css/navigation-branding-flex.min.css?ver=2.1.2" media="all">
@@ -320,26 +320,29 @@ gtag('config', 'UA-211663912-4' , {'allow_display_features': false,});
         <div class="field">
           <label class="label">Name</label>
           <div class="control">
-            <input class="input" type="text" name="name" placeholder="Enter Your Name" required>
+            <input class="input" type="text" name="name" placeholder="Enter Your Name" required="">
           </div>
         </div>
         <div class="field">
           <label class="label">Email</label>
           <div class="control">
-            <input class="input" type="email" name="email" placeholder="Enter Your Email" required>
+            <input class="input" type="email" name="email" placeholder="Enter Your Email" required="">
           </div>
         </div>
         <div class="field">
           <label class="label">Message</label>
           <div class="control">
-            <textarea class="textarea" name="message" placeholder="Enter Your Message" required></textarea>
+            <textarea class="textarea" name="message" placeholder="Enter Your Message" required=""></textarea>
           </div>
+ <!-- If you want replyTo to be set to specific email -->
+        <input type="text" name="replyTo" value="@"> <!-- Optional -->
+        <!-- Specify @ as reply to value if you want it to be customers email -->
+        <input type="hidden" name="replyTo" value="@"> <!-- Optional -->
         </div>
         <button class="button is-primary" type="Submit">Submit</button>
       
     </div>
   </div>
-
 
 
 
