@@ -8,16 +8,24 @@
 	>
 
 <channel>
-	<title>static</title>
+	<title>Startup Supply</title>
 	<atom:link href="https://hellohellocakes.co.uk/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hellohellocakes.co.uk/</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 15 Mar 2022 11:08:12 +0000</lastBuildDate>
+	<description>Website development</description>
+	<lastBuildDate>Sun, 13 Mar 2022 13:44:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://hellohellocakes.co.uk/wp-content/uploads/2021/10/globe.svg</url>
+	<title>Startup Supply</title>
+	<link>https://hellohellocakes.co.uk/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>

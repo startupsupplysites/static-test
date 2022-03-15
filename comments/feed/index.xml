@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments for static	</title>
+	Comments for Startup Supply	</title>
 	<atom:link href="https://hellohellocakes.co.uk/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hellohellocakes.co.uk/</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 15 Mar 2022 11:08:12 +0000</lastBuildDate>
+	<description>Website development</description>
+	<lastBuildDate>Sun, 13 Mar 2022 13:44:18 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>

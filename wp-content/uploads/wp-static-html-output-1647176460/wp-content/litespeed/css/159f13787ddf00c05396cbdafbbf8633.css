@@ -1,0 +1,146 @@
+.gb-button-wrapper {display: flex;flex-wrap: wrap;align-items: flex-start;justify-content: flex-start;clear: both;}
+.gb-button-wrapper-9bc6ecb3 {margin-top: 25px;justify-content: flex-end;}
+.gb-icon {display: inline-flex;line-height: 0;}
+.gb-icon svg {height: 1em;width: 1em;fill: currentColor;}
+.gb-button-wrapper .gb-button {display: inline-flex;align-items: center;justify-content: center;text-align: center;text-decoration: none;transition: .2s background-color ease-in-out,.2s color ease-in-out,.2s border-color ease-in-out,.2s opacity ease-in-out,.2s box-shadow ease-in-out;}
+.gb-button-wrapper .gb-button .gb-icon {align-items: center;}
+.gb-button-wrapper .gb-button-light, .gb-button-wrapper .gb-button-light:visited {background-color: #fff;color: #233545;padding: 15px 20px;}
+.gb-button-wrapper .gb-button-light:hover, .gb-button-wrapper .gb-button-light:active, .gb-button-wrapper .gb-button-light:focus {background-color: #233545;color: #fff;}
+.gb-button-wrapper .gb-button-dark, .gb-button-wrapper .gb-button-dark:visited {background-color: #233545;color: #fff;padding: 15px 20px;}
+.gb-button-wrapper .gb-button-dark:hover, .gb-button-wrapper .gb-button-dark:active, .gb-button-wrapper .gb-button-dark:focus {background-color: rgba(35,53,69,.85);color: #fff;}
+.gb-button-wrapper .gb-button-dd6f82c2, .gb-button-wrapper .gb-button-dd6f82c2:visited {color: var(--accent);margin-right: 20px;display: inline-flex;align-items: center;}
+.gb-button-wrapper .gb-button-dd6f82c2:hover, .gb-button-wrapper .gb-button-dd6f82c2:active, .gb-button-wrapper .gb-button-dd6f82c2:focus {color: #000;}
+.gb-button-dd6f82c2 .gb-icon {font-size: 1.2em;}
+.gb-button-wrapper a.gb-button-ab5a1c7f, .gb-button-wrapper a.gb-button-ab5a1c7f:visited {color: var(--accent);margin-right: 20px;display: inline-flex;align-items: center;}
+.gb-button-wrapper a.gb-button-ab5a1c7f:hover, .gb-button-wrapper a.gb-button-ab5a1c7f:active, .gb-button-wrapper a.gb-button-ab5a1c7f:focus {color: #000;}
+a.gb-button-ab5a1c7f .gb-icon {font-size: 1.2em;}
+.gb-button-wrapper .gb-button-39ce73be, .gb-button-wrapper .gb-button-39ce73be:visited {color: var(--accent);margin-right: 20px;display: inline-flex;align-items: center;}
+.gb-button-wrapper .gb-button-39ce73be:hover, .gb-button-wrapper .gb-button-39ce73be:active, .gb-button-wrapper .gb-button-39ce73be:focus {color: #000;}
+.gb-button-39ce73be .gb-icon {font-size: 1.2em;}
+.gb-button-wrapper a.gb-button-af49edf9, .gb-button-wrapper a.gb-button-af49edf9:visited {color: var(--accent);margin-right: 20px;display: inline-flex;align-items: center;}
+.gb-button-wrapper a.gb-button-af49edf9:hover, .gb-button-wrapper a.gb-button-af49edf9:active, .gb-button-wrapper a.gb-button-af49edf9:focus {color: #000;}
+a.gb-button-af49edf9 .gb-icon {font-size: 1.2em;}
+.gb-button-wrapper .gb-button-d255c7d8, .gb-button-wrapper .gb-button-d255c7d8:visited {color: var(--accent);margin-right: 20px;display: inline-flex;align-items: center;}
+.gb-button-wrapper .gb-button-d255c7d8:hover, .gb-button-wrapper .gb-button-d255c7d8:active, .gb-button-wrapper .gb-button-d255c7d8:focus {color: #000;}
+.gb-button-d255c7d8 .gb-icon {font-size: 1.2em;}
+.gb-button-wrapper a.gb-button-bca76a9f, .gb-button-wrapper a.gb-button-bca76a9f:visited {color: var(--accent);margin-right: 20px;display: inline-flex;align-items: center;}
+.gb-button-wrapper a.gb-button-bca76a9f:hover, .gb-button-wrapper a.gb-button-bca76a9f:active, .gb-button-wrapper a.gb-button-bca76a9f:focus {color: #000;}
+a.gb-button-bca76a9f .gb-icon {font-size: 1.2em;}
+.gb-button-wrapper a.gb-button-9588cd3e, .gb-button-wrapper a.gb-button-9588cd3e:visited {color: #abb8c3;margin-right: 25px;display: inline-flex;align-items: center;}
+.gb-button-wrapper a.gb-button-9588cd3e:hover, .gb-button-wrapper a.gb-button-9588cd3e:active, .gb-button-wrapper a.gb-button-9588cd3e:focus {color: #385168;}
+a.gb-button-9588cd3e .gb-icon {font-size: 1em;}
+.gb-button-wrapper a.gb-button-c0b504cf, .gb-button-wrapper a.gb-button-c0b504cf:visited {color: #abb8c3;margin-right: 25px;display: inline-flex;align-items: center;}
+.gb-button-wrapper a.gb-button-c0b504cf:hover, .gb-button-wrapper a.gb-button-c0b504cf:active, .gb-button-wrapper a.gb-button-c0b504cf:focus {color: #385168;}
+a.gb-button-c0b504cf .gb-icon {font-size: 1em;}
+.gb-button-wrapper a.gb-button-0f357e96, .gb-button-wrapper a.gb-button-0f357e96:visited {color: #abb8c3;margin-right: 25px;display: inline-flex;align-items: center;}
+.gb-button-wrapper a.gb-button-0f357e96:hover, .gb-button-wrapper a.gb-button-0f357e96:active, .gb-button-wrapper a.gb-button-0f357e96:focus {color: #385168;}
+a.gb-button-0f357e96 .gb-icon {font-size: 1em;}
+.gb-button-wrapper a.gb-button-7bb6d4db, .gb-button-wrapper a.gb-button-7bb6d4db:visited {color: #abb8c3;display: inline-flex;align-items: center;}
+.gb-button-wrapper a.gb-button-7bb6d4db:hover, .gb-button-wrapper a.gb-button-7bb6d4db:active, .gb-button-wrapper a.gb-button-7bb6d4db:focus {color: #385168;}
+a.gb-button-7bb6d4db .gb-icon {font-size: 1.1em;}
+.gb-container .wp-block-image img {vertical-align: middle;}
+.gb-container .gb-shape {position: absolute;overflow: hidden;pointer-events: none;line-height: 0;}
+.gb-container .gb-shape svg {fill: currentColor;}
+.gb-container-07d277b1 {background-image: url("https://mikeoliver.dev/landing/wp-content/uploads/shape-3.svg");background-repeat: no-repeat;background-position: right center;background-size: 260px;}
+.gb-container-07d277b1>.gb-inside-container {padding: 60px 20px;max-width: 1200px;margin-left: auto;margin-right: auto;}
+.gb-container-07d277b1.gb-has-dynamic-bg {background-image: var(--background-url);}
+.gb-container-07d277b1.gb-no-dynamic-bg {background-image: none;}
+.gb-container-a8bedfb1>.gb-inside-container {padding: 0;}
+.gb-grid-wrapper>.gb-grid-column-a8bedfb1 {width: 33.33%;}
+.gb-container-e3f31c69>.gb-inside-container {padding: 0;}
+.gb-grid-wrapper>.gb-grid-column-e3f31c69 {width: 33.33%;}
+.gb-container-77338645>.gb-inside-container {padding: 0;}
+.gb-grid-wrapper>.gb-grid-column-77338645 {width: 33.33%;}
+.gb-container-a4f5d0b8 {background-color: #f9f9f9;position: relative;z-index: 1;}
+.gb-container-a4f5d0b8>.gb-inside-container {padding: 40px 40px 100px;max-width: 1200px;margin-left: auto;margin-right: auto;}
+.gb-container-58bbb21a>.gb-inside-container {padding: 0;}
+.gb-grid-wrapper>.gb-grid-column-58bbb21a {width: 50%;}
+.gb-container-1f1d2b1b>.gb-inside-container {padding: 0;}
+.gb-grid-wrapper>.gb-grid-column-1f1d2b1b {width: 50%;}
+.gb-container-e4bc7182 {background-color: #0f5fce;position: relative;overflow: hidden;}
+.gb-container-e4bc7182:before {content: "";background-image: url("https://startupsupply.co.uk/wp-content/uploads/2021/10/5u_28ojjgms.jpg");background-repeat: no-repeat;background-position: center center;background-size: cover;z-index: 0;position: absolute;top: 0;right: 0;bottom: 0;left: 0;transition: inherit;opacity: .04;}
+.gb-container-e4bc7182>.gb-inside-container {padding: 100px 20px;max-width: 1200px;margin-left: auto;margin-right: auto;z-index: 1;position: relative;}
+.gb-container-e4bc7182.gb-has-dynamic-bg:before {background-image: var(--background-url);}
+.gb-container-e4bc7182.gb-no-dynamic-bg:before {background-image: none;}
+.gb-container-6ca9b99d {text-align: left;}
+.gb-container-6ca9b99d>.gb-inside-container {padding: 0;}
+.gb-grid-wrapper>.gb-grid-column-6ca9b99d {width: 50%;}
+.gb-container-8ae12944 {border-right-style: solid;border-right-width: 1px;border-color: #abb8c3;}
+.gb-container-8ae12944>.gb-inside-container {padding: 0;}
+.gb-grid-wrapper>.gb-grid-column-8ae12944 {width: 25%;}
+.gb-container-46806981>.gb-inside-container {padding: 0;}
+.gb-grid-wrapper>.gb-grid-column-46806981 {width: 25%;}
+.gb-container-dd01ab13 {margin-top: 40px;border-top-style: solid;border-top-width: 1px;border-color: #abb8c3;}
+.gb-container-dd01ab13>.gb-inside-container {padding: 75px 0 0;max-width: 1200px;margin-left: auto;margin-right: auto;}
+.gb-container-1fdf7307>.gb-inside-container {padding: 0;}
+.gb-grid-wrapper>.gb-grid-column-1fdf7307 {width: 50%;}
+.gb-container-802ecff2>.gb-inside-container {padding: 0;}
+.gb-grid-wrapper>.gb-grid-column-802ecff2 {width: 50%;}
+.gb-container-8b6d1c4b {background-color: #000;color: #fff;position: relative;overflow: hidden;text-align: center;}
+.gb-container-8b6d1c4b:before {content: "";background-image: url("https://startupsupply.co.uk/wp-content/uploads/2021/10/5u_28ojjgms.jpg");background-repeat: no-repeat;background-position: center center;background-size: cover;z-index: 0;position: absolute;top: 0;right: 0;bottom: 0;left: 0;transition: inherit;opacity: .3;}
+.gb-container-8b6d1c4b>.gb-inside-container {padding: 150px 40px;max-width: 1200px;margin-left: auto;margin-right: auto;z-index: 1;position: relative;}
+.gb-container-8b6d1c4b a, .gb-container-8b6d1c4b a:visited {color: #fff;}
+.gb-container-8b6d1c4b.gb-has-dynamic-bg:before {background-image: var(--background-url);}
+.gb-container-8b6d1c4b.gb-no-dynamic-bg:before {background-image: none;}
+.gb-grid-wrapper {display: flex;flex-wrap: wrap;}
+.gb-grid-wrapper>.gb-grid-column>.gb-container {display: flex;flex-direction: column;height: 100%;}
+.gb-grid-column {box-sizing: border-box;}
+.gb-grid-wrapper .wp-block-image {margin-bottom: 0;}
+.gb-grid-wrapper-d2d28eaa {margin-left: -80px;}
+.gb-grid-wrapper-d2d28eaa>.gb-grid-column {padding-left: 80px;padding-bottom: 60px;}
+.gb-grid-wrapper-909601ea {align-items: center;margin-left: -80px;}
+.gb-grid-wrapper-909601ea>.gb-grid-column {padding-left: 80px;}
+.gb-grid-wrapper-58c4b958 {align-items: center;}
+.gb-grid-wrapper-58c4b958>.gb-grid-column {padding-left: 0;padding-bottom: 40px;}
+.gb-grid-wrapper-8debd967 {margin-left: -30px;}
+.gb-grid-wrapper-8debd967>.gb-grid-column {padding-left: 30px;}
+.gb-highlight {background: 0 0;color: unset;}
+h3.gb-headline-81809c2d {margin-top: 25px;margin-bottom: 5px;}
+p.gb-headline-536506d7 {font-size: 16px;margin-bottom: 20px;}
+h3.gb-headline-51e7134a {margin-top: 25px;margin-bottom: 5px;}
+p.gb-headline-8148c83c {font-size: 16px;margin-bottom: 20px;}
+h3.gb-headline-000b2e13 {margin-top: 25px;margin-bottom: 5px;}
+p.gb-headline-a520b92f {font-size: 16px;margin-bottom: 20px;}
+p.gb-headline-de6dcbd3 {margin-bottom: 0;}
+p.gb-headline-70e55e0c {font-family: Work Sans,sans-serif;color: #abb8c3;font-size: 12px;font-weight: 500;text-transform: uppercase;letter-spacing: .2em;}
+p.gb-headline-3329d229 {font-family: Work Sans,sans-serif;color: #abb8c3;font-size: 12px;font-weight: 500;text-transform: uppercase;letter-spacing: .2em;margin-bottom: 0;}
+p.gb-headline-ab0cb962 {font-family: Work Sans,sans-serif;color: #abb8c3;font-size: 12px;font-weight: 500;text-transform: uppercase;letter-spacing: .2em;}
+p.gb-headline-d48526d4 {font-family: Work Sans,sans-serif;text-align: right;color: #abb8c3;font-size: 12px;font-weight: 500;text-transform: uppercase;letter-spacing: .2em;}
+p.gb-headline-d48526d4 a {color: #abb8c3;}
+p.gb-headline-d48526d4 a:hover {color: #fff;}
+h1.gb-headline-62a8b2cc {font-size: 50px;}
+@media (min-width:1025px) {.gb-grid-wrapper>div.gb-grid-column-77338645 {padding-bottom: 0;}}
+@media (max-width:1024px) {.gb-button-wrapper-9bc6ecb3 {justify-content: center;}
+	.gb-grid-wrapper>.gb-grid-column-58bbb21a {width: 100%;}
+	.gb-container-1f1d2b1b {text-align: center;}
+	.gb-grid-wrapper>.gb-grid-column-1f1d2b1b {width: 100%;}
+	.gb-container-6ca9b99d {text-align: center;}
+	.gb-grid-wrapper>.gb-grid-column-6ca9b99d {width: 33.33%;}
+	.gb-grid-wrapper>.gb-grid-column-8ae12944 {width: 33.33%;}
+	.gb-grid-wrapper>.gb-grid-column-46806981 {width: 33.33%;}
+	.gb-grid-wrapper-909601ea {justify-content: center;}
+	.gb-grid-wrapper-909601ea>.gb-grid-column {padding-bottom: 60px;}}
+@media (max-width:1024px) and (min-width:768px) {.gb-grid-wrapper>div.gb-grid-column-77338645 {padding-bottom: 0;}
+	.gb-grid-wrapper>div.gb-grid-column-1f1d2b1b {padding-bottom: 0;}}
+@media (max-width:767px) {.gb-button-wrapper-9bc6ecb3 {justify-content: flex-start;}
+	.gb-grid-wrapper>.gb-grid-column-a8bedfb1 {width: 100%;}
+	.gb-grid-wrapper>.gb-grid-column-e3f31c69 {width: 100%;}
+	.gb-grid-wrapper>.gb-grid-column-77338645 {width: 100%;}
+	.gb-grid-wrapper>.gb-grid-column-58bbb21a {width: 100%;}
+	.gb-container-1f1d2b1b {text-align: center;}
+	.gb-grid-wrapper>.gb-grid-column-1f1d2b1b {width: 100%;}
+	.gb-grid-wrapper>div.gb-grid-column-1f1d2b1b {padding-bottom: 0;}
+	.gb-container-6ca9b99d {text-align: center;}
+	.gb-grid-wrapper>.gb-grid-column-6ca9b99d {width: 100%;}
+	.gb-container-8ae12944 {border-style: solid;border-width: 0;}
+	.gb-grid-wrapper>.gb-grid-column-8ae12944 {width: 100%;}
+	.gb-grid-wrapper>.gb-grid-column-46806981 {width: 100%;}
+	.gb-grid-wrapper>.gb-grid-column-1fdf7307 {width: 100%;}
+	.gb-grid-wrapper>.gb-grid-column-802ecff2 {width: 100%;}
+	.gb-grid-wrapper>.gb-grid-column-8b6d1c4b {width: 100%;}
+	.gb-grid-wrapper-909601ea {margin-left: 0;}
+	.gb-grid-wrapper-909601ea>.gb-grid-column {padding-left: 0;}
+	.gb-grid-wrapper-58c4b958>.gb-grid-column {padding-bottom: 40px;}
+	p.gb-headline-d48526d4 {text-align: left;}}
+.gb-container-link {position: absolute;top: 0;right: 0;bottom: 0;left: 0;z-index: 999;}
+a.gb-container {display: block;}
