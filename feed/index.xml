@@ -9,8 +9,8 @@
 
 <channel>
 	<title>static</title>
-	<atom:link href="https://static-test-e2b.pages.dev/feed/" rel="self" type="application/rss+xml" />
-	<link>https://static-test-e2b.pages.dev/</link>
+	<atom:link href="https://hellohellocakes.co.uk/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hellohellocakes.co.uk/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 15 Mar 2022 11:08:12 +0000</lastBuildDate>
 	<language>en-US</language>
